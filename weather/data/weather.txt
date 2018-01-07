@@ -1,0 +1,126 @@
+南京今日天气
+星期五
+26℃~21℃
+多云
+东南风 1级
+http://img.tianqi.com/static/images/tianqibig/b1.png
+
+南京明日天气
+星期六
+24℃~19℃
+阵雨
+东南风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b3.png
+
+南京后天天气
+星期日
+24℃~21℃
+中雨
+东风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b8.png
+
+南京25日天气
+星期一
+27℃~23℃
+雷阵雨
+西风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b4.png
+
+南京26日天气
+星期二
+29℃~22℃
+雷阵雨
+西风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b4.png
+
+南京27日天气
+星期三
+25℃~19℃
+阵雨
+东北风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b3.png
+
+苏州今日天气
+星期五
+26℃~21℃
+阴
+南风 2级
+http://img.tianqi.com/static/images/tianqibig/b2.png
+
+苏州明日天气
+星期六
+24℃~20℃
+阵雨
+东风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b3.png
+
+苏州后天天气
+星期日
+25℃~21℃
+阵雨
+东风 1-2级
+http://img.tianqi.com/static/images/tianqibig/b3.png
+
+苏州25日天气
+星期一
+29℃~25℃
+雷阵雨
+西风 1-2级
+http://img.tianqi.com/static/images/tianqibig/b4.png
+
+苏州26日天气
+星期二
+30℃~22℃
+阴
+西风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b2.png
+
+苏州27日天气
+星期三
+26℃~19℃
+阵雨
+北风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b3.png
+
+上海今日天气
+星期五
+25℃~21℃
+小雨
+北风 1级
+http://img.tianqi.com/static/images/tianqibig/b7.png
+
+上海明日天气
+星期六
+23℃~19℃
+中雨
+东北风 3-4级
+http://img.tianqi.com/static/images/tianqibig/b8.png
+
+上海后天天气
+星期日
+25℃~22℃
+小雨
+东风 1-2级
+http://img.tianqi.com/static/images/tianqibig/b7.png
+
+上海25日天气
+星期一
+28℃~24℃
+小雨
+东南风 4-5级
+http://img.tianqi.com/static/images/tianqibig/b7.png
+
+上海26日天气
+星期二
+29℃~22℃
+小雨
+西北风 1-2级
+http://img.tianqi.com/static/images/tianqibig/b7.png
+
+上海27日天气
+星期三
+27℃~20℃
+小雨
+北风 1-2级
+http://img.tianqi.com/static/images/tianqibig/b7.png
+
